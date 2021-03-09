@@ -5,3 +5,5 @@ Utiliser forge-1.16.5-36.0.46-installer.jar et installer le client Forge 1.16.5
 Aller dans le folder %appdata% (chercher %appdata% dans coin en bas a gauche de windows) puis dans .minecraft
 
 Copier le folder mods dans le zip vers votre .minecraft
+
+l'ip du server 24.203.146.198
